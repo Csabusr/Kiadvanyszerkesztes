@@ -1,0 +1,4 @@
+class Kordeszlet{
+	int kod;
+	string reszlet;
+}
